@@ -1,0 +1,8 @@
+To install “Lifestyle Banking App.” First 
+create a database name “BANK” by writing 
+“create database BANK; ” in my sql. Then 
+run the setup file. Setup file will install the 
+necessary table and text file in the Bank 
+database. The “Lifestyle Bank” app is now 
+installed. Now, just open main file and have 
+a happy and a safe banking.
